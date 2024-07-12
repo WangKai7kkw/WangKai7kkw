@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a PhD student from the Animal Nutrition Group at ETH Zurich. 
+I am a PhD student from the [Animal Nutrition Group] (https://github.com/WangKai7kkw/pwr4exp/vignettes/redres-vignette.html) at ETH Zurich.
 
 - 🔭 I’m currently working on integrating methods to mitigate enteric methane emissions in dairy cows
 - 🌱 I’m currently learning statistical inference
