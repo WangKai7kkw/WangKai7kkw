@@ -2,7 +2,7 @@
 
 I am a PhD student from the [Animal Nutrition Group](https://an.ias.ethz.ch/en) at ETH Zurich.
 
-- 🔭 I’m currently working on integrating methods to mitigate enteric methane emissions in dairy cows
+- 🔭 My PhD research focuses on exploring dietary and feeding strategies to mitigate enteric methane emissions in dairy cows
 - 🌱 I’m currently learning statistical inference
 - 👯 I’m looking to collaborate on applying statistical modelling in animal nutrition studies
 - 💬 Ask me about experimental designs and data analysis
