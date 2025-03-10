@@ -4,7 +4,6 @@ I am a PhD student from the [Animal Nutrition Group](https://an.ias.ethz.ch/en) 
 
 - 🔭 My PhD research focuses on exploring dietary and feeding strategies to mitigate enteric methane emissions in dairy cows
 - 🌱 I’m currently learning statistical inference
-- 👯 I’m looking to collaborate on applying statistical modelling in animal nutrition studies
 - 💬 Ask me about experimental designs and data analysis
 - 📫 How to reach me: kai.wang@usys.ethz.ch
 - 😄 Pronouns: he/him
